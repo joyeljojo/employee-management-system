@@ -71,4 +71,6 @@ employee_system/
 
 ## Author
 
-Joyel Jojo 
+Joyel Jojo
+www.linkedin.com/in/joyeljojo
+github.com/joyeljojo
