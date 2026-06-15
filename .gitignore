@@ -1,0 +1,9 @@
+# Database file - gets created when running db.py
+database/employee_system.db
+
+# Python cache files - auto-generated, not needed
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
